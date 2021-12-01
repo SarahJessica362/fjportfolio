@@ -1,0 +1,15 @@
+p.petit {
+    zoom: 75%;
+  }
+  p.normal {
+    zoom: normal;
+  }
+  p.gros {
+    zoom: 2.5;
+  }
+  p {
+    display: inline-block;
+  }
+  p:hover {
+    zoom: reset;
+  }
